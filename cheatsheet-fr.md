@@ -3,13 +3,13 @@
 ## Général
 Raccourci | Description 
 ---|---
-`SPC f e d` | Ouvrir le fichier de configuration .emacs 
-`SPC f e R` | Recharge le fichier .emacs
-`SPC SPC` |  
-`SPC h SPC` | Search Spacemacs Layer
-`SPC f s` | Save Buffer
-`SPC q q` | Quit Emacs w/ Prompt
-`SPC q Q` | Quit Emacs w/o Prompt
-`SPC f t` | Toggle NeoTree
-`SPC TAB` | Switch window to previous buffer
-`SPC ?` | Search for Keybinding
+`SPC f e d` | Ouvrir le fichier de configuration .spacemacs 
+`SPC f e R` | Recharge le fichier .spacemacs
+`SPC SPC` |  Recherche de commandes Emacs
+`SPC h SPC` | Recherche dans les layers de Spacemacs
+`SPC f s` | Sauvegarde le Buffer
+`SPC q q` | Quitter Emacs avec Prompt
+`SPC q Q` | Quitter Emacs sans Prompt
+`SPC f t` | Alterner NeoTree
+`SPC TAB` | Basculer la fenêtre vers le buffer précédent
+`SPC ?` | Rechercher une combinaison de touches
