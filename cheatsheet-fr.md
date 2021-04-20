@@ -13,3 +13,6 @@ Raccourci | Description
 `SPC f t` | Alterner NeoTree
 `SPC TAB` | Basculer la fenêtre vers le buffer précédent
 `SPC ?` | Rechercher une combinaison de touches
+`CTRL /` | Undo
+`CTRL ?` | Redo
+`%` | Trouve la parenthèse correspondante
